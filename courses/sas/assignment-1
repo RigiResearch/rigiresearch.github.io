@@ -1,0 +1,508 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { (function(){function e(a){this.t={};this.tick=function(a,c,b){this.t[a]=[void 0!=b?b:(new Date).getTime(),c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(h){}};this.tick("start",null,a)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" href="/_/rsrc/1510949822433/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="http://www.gstatic.com/sites/p/50ec67/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/courses","deleted":false,"title":"Courses","dir":"ltr"},{"path":"/courses/sas","deleted":false,"title":"Self-Adaptive and Self-Managing Systems","dir":"ltr"},{"path":"/courses/sas/assignment-1","deleted":false,"title":"Assignment 1","dir":"ltr"}];
+  var JOT_clearDotPath = 'http://www.gstatic.com/sites/p/50ec67/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":false,"pageSharingId":"jotspot_page","enableUniversalAnalytics":false,"sharingPolicy":"OPENED_WITH_INDICATOR","siteTitle":"Rigi Research","jot2atari":{"eligibility":"ineligible"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"oAuthForChartsApi":true,"contactStoreMigrationPollForGapi":true,"gapiLoaderUtil":true,"moreMobileStyleImprovements":null,"googleChartsOverGstatic":false,"picasaAlbumInsert":false,"pageDrafts":false,"enableJot2Atari":true,"plusBadge":false,"pdfEmbedSupport":false},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":false,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197","cajaBaseUrl":"//www.gstatic.com/caja","cajaDebugMode":false},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttp://sites.google.com/a/rigiresearch.com/rigi-research/courses/sas/assignment-1\u0026service\u003djotspot","analyticsAccountId":"","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"http://csi.gstatic.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["http://www.gstatic.com/sites/p/50ec67/system/app/css/sitelayouteditor.css"],"text":["http://www.gstatic.com/sites/p/50ec67/system/js/codemirror.js","http://www.gstatic.com/sites/p/50ec67/system/app/css/codemirror_css.css","http://www.gstatic.com/sites/p/50ec67/system/js/trog_edit__en.js","http://www.gstatic.com/sites/p/50ec67/system/app/css/trogedit.css","/_/rsrc/1522769309000/system/app/css/editor.css","http://www.gstatic.com/sites/p/50ec67/system/app/css/codeeditor.css","/_/rsrc/1522769309000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"rigiresearch.com","baseUri":"","name":"rigi-research","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":"/courses/sas","parentWuid":"wuid:gx:3952966e46736171","siteLocale":"en","timeZone":"America/Los_Angeles","type":"text","title":"Assignment 1","locale":"en","wuid":"wuid:gx:1f561c5a86b5e0f","revision":42,"path":"/courses/sas/assignment-1","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"assignment-1","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","onePickToken":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="title" content="Assignment 1 - Rigi Research" />
+<meta itemprop="name" content="Assignment 1 - Rigi Research" />
+<meta property="og:title" content="Assignment 1 - Rigi Research" />
+<meta name="description" content="Rigi is a software engineering research group at the University of Victoria (Canada) in the Department of Computer Science, headed by Dr. Hausi Müller." />
+<meta itemprop="description" content="Rigi is a software engineering research group at the University of Victoria (Canada) in the Department of Computer Science, headed by Dr. Hausi Müller." />
+<meta id="meta-tag-description" property="og:description" content="Rigi is a software engineering research group at the University of Victoria (Canada) in the Department of Computer Science, headed by Dr. Hausi Müller." />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/50ec67/system/app/themes/solitudecherry/standard-css-solitudecherry-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1522769309000/system/app/css/overlay.css?cb=solitudecherry1200px%25150goog-ws-nav-nosidecontent30middlestandard" />
+<link rel="stylesheet" type="text/css" href="/_/rsrc/1522769309000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>Assignment 1 - Rigi Research</title>
+<meta itemprop="image" content="/_/rsrc/1510724321533/config/customLogo.gif?revision=29" />
+<meta property="og:image" content="/_/rsrc/1510724321533/config/customLogo.gif?revision=29" />
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="height:auto;">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="height:auto;">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="sites-chrome-header-valign-middle"><div class="sites-header-cell-buffer-wrapper"><h2><a href="http://www.rigiresearch.com/" id="sites-chrome-userheader-logo"><img id="logo-img-id" src="/_/rsrc/1510724321533/config/customLogo.gif?revision=29" alt="Rigi Research" class="sites-logo sites-chrome-header-valign-middle " /></a></h2></div></td><td class="sites-layout-searchbox sites-chrome-header-valign-middle "></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+<div class="sites-header-nav"><ul class="sites-header-nav-container-links"><li class="unselected"><a class="sites-navigation-link unselected" href="/home">Home</a></li><li class="unselected"><a class="sites-navigation-link unselected" href="/people">People</a></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/research">Research</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="http://www.rigi.csc.uvic.ca/" target="_blank">Rigi Tool</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/courses">Courses</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/courses/sas">Self-Adaptive and Self-Managing Systems</a></div></div></li><li class="unselected"><a class="sites-navigation-link unselected" href="/contact">Contact</a></li></ul><div style="clear: both;"></div></div>
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left" style="display: none; width: 150px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first parent " wuid="gx:5cb37c892cd020e2"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/home" jotId="wuid:gx:5cb37c892cd020e2" class="sites-navigation-link topLevel">Home</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/home/engrtownhall" jotId="wuid:gx:3a94ba828b0f4940" class="sites-navigation-link">Engineering Town Hall (retired)</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/contact" jotId="wuid:gx:67c7fc4aeaa0d7f" class="sites-navigation-link topLevel">Contact</a></div></li><li class="topLevel parent " wuid="gx:5137d298c4b1f84b"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/courses" jotId="wuid:gx:5137d298c4b1f84b" class="sites-navigation-link topLevel">Courses</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/courses/c-workshop" jotId="wuid:gx:450187a53cb762ae" class="sites-navigation-link">C Workshop</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/courses/sas" jotId="wuid:gx:3952966e46736171" class="sites-navigation-link">Self-Adaptive and Self-Managing Systems</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/dissertations" jotId="wuid:gx:8b6abb96d963328" class="sites-navigation-link topLevel">Dissertations</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/events" jotId="wuid:gx:6c54dbdfda9cff9f" class="sites-navigation-link topLevel">Events</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/grad-project" jotId="wuid:gx:f1a9cb49dfc3704" class="sites-navigation-link topLevel">Grad Project</a></div></li><li class="topLevel parent " wuid="gx:403e6b34e322c324"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/people" jotId="wuid:gx:403e6b34e322c324" class="sites-navigation-link topLevel">People</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/andreas-bergen" jotId="wuid:gx:4fff5529d06b8d4c" class="sites-navigation-link">Andreas Bergen, PhD Student</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/charlie-magnuson" jotId="wuid:gx:4ab23107937a04ca" class="sites-navigation-link">Charlie Magnuson, Undergraduate</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/ernest-aaron" jotId="wuid:gx:44d2640db56934ee" class="sites-navigation-link">Ernest Aaron, MSc Student</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/harsh-dawar" jotId="wuid:gx:99a997d77b769bd" class="sites-navigation-link">Harsh Dawar, MSc Student</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/harshit-jain" jotId="wuid:gx:5786ed569b3b7fde" class="sites-navigation-link">Harshit Jain, MSc Student</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/kirti-agarwal" jotId="wuid:gx:55aaadd571f5d0e" class="sites-navigation-link">Kirti Agarwal, MSc Student</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/lorena-castaneda" jotId="wuid:gx:4e7c576c2a39675a" class="sites-navigation-link">Lorena Castañeda, PhD Candidate</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/miguel-jimenez" jotId="wuid:gx:1edbe7f144a980b3" class="sites-navigation-link">Miguel Jiménez, PhD Student</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/nina-taherimakhsousi" jotId="wuid:gx:31206820c33098b2" class="sites-navigation-link">Nina Taherimakhsousi, PhD Candidate</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/norha-m-villegas-dissertation" jotId="wuid:gx:78067e1155c588ed" class="sites-navigation-link">Norha M. Villegas, PhD</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/priya-angara" jotId="wuid:gx:12e2a0762a43b702" class="sites-navigation-link">Prashanti Priya Angara, MSc</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/pratik-jain" jotId="wuid:gx:226c398369c35cd5" class="sites-navigation-link">Pratik Jain, MSc Student</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/przemek-lach" jotId="wuid:gx:4908dfbfa3e9b301" class="sites-navigation-link">Przemek Lach, MSc Student</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/rondesmarais" jotId="wuid:gx:5b006df0d1b120b3" class="sites-navigation-link">Ronald Joseph Desmarais, PhD</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/roshni-jain" jotId="wuid:gx:10a8e8ac425c7898" class="sites-navigation-link">Roshni Jain, MSc Student</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/people/stephan-heinemann" jotId="wuid:gx:76150fcd2a1b560b" class="sites-navigation-link">Stephan Heinemann, PhD Candidate</a></div></li></ul></li><li class="topLevel parent " wuid="gx:3af4c85f9f3e1e73"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/research" jotId="wuid:gx:3af4c85f9f3e1e73" class="sites-navigation-link topLevel">Research</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/caprecipes" jotId="wuid:gx:3cf8be14689fc99c" class="sites-navigation-link">CAPRecipes: Context-Aware Personalized Recipe Recommender</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/crva" jotId="wuid:gx:67570bdb9f85da1d" class="sites-navigation-link">CAVA: Context-aware Real-time Video Analytics</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/cfr" jotId="wuid:gx:6efd1af0a4300c44" class="sites-navigation-link">Context-Based Face Recognition</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/livelyweb" jotId="wuid:gx:145555a9df00f371" class="sites-navigation-link">Lively Web</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/ibm-cas" jotId="wuid:gx:6e657a74f9bb7f5a" class="sites-navigation-link">Managing Dynamic Context to Optimize Smart Interactions and Services (IBM CAS Project)</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/paltask-2-0" jotId="wuid:gx:1a9f286f316736af" class="sites-navigation-link">PALTask 2.0 Using Lively Web</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/paltask" jotId="wuid:gx:547a40475296b8f" class="sites-navigation-link">PALTask: Personalized Automatic web-resources Listing Task</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/pwt" jotId="wuid:gx:5375807df9b0b31e" class="sites-navigation-link">Personalized Web-Tasking with Situation-Aware Smart Applications (IBM CAS Project)</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/pit" jotId="wuid:gx:683bf113c5567b9d" class="sites-navigation-link">PhD Dissertation: Runtime Modelling for User-Centric Smart Applications in Cyber-Physical-Human Systems</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/savi-project" jotId="wuid:gx:7e96b4337cd26fa7" class="sites-navigation-link">SAVI Projects</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/savi-quadcopters" jotId="wuid:gx:786d3ad1215c85e2" class="sites-navigation-link">SAVI Quadcopters</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/iris-smart-autoflight-control-system" jotId="wuid:gx:62a1fe9c7e87a414" class="sites-navigation-link">Smart Autoflight Control System</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/research/yakkit-location-based-messaging" jotId="wuid:gx:60aff569b24c6a99" class="sites-navigation-link">Yakkit: Location Based Messaging</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/system/app/pages/sitemap/hierarchy" jotId="wuid:gx:601c4aa06c9553c8" class="sites-navigation-link topLevel">Sitemap</a></div></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+<A href="/courses" dir="ltr">Courses</A>‎ &gt; ‎<A href="/courses/sas" dir="ltr">Self-Adaptive and Self-Managing Systems</A>‎ &gt; ‎
+  </div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">Assignment 1</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-layout-name-left-sidebar-hf sites-layout-vbox"><div class="sites-layout-tile sites-tile-name-header sites-layout-empty-tile"><div dir="ltr"><div style="font-size:13.3333330154419px;text-align:right"><br /></div></div></div><table cellspacing="0" class="sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1 sites-canvas-sidebar"><div dir="ltr"><div><table cellspacing="0" style="width:993.993957519531px;font-size:13.3333330154419px"><tbody><tr><td><div dir="ltr"><div style="font-size:13.3333330154419px"><font color="#ff0000"><b><a href="http://webhome.cs.uvic.ca/~hausi/2015-480a/Muller-Villegas-Runtime-Evolution.pdf" rel="nofollow" target="_blank">Midterm 2 Crib Paper</a></b></font></div><div style="font-size:13.3333330154419px"><a href="http://www.rigiresearch.com/courses/sas" style="line-height:1.5;font-size:10pt">Home</a></div><a href="http://www.rigiresearch.com/courses/sas/resources" style="border-bottom-style:dotted;border-bottom-color:rgb(187,36,45);text-decoration:none;font-size:13.3333330154419px;background-color:rgb(224,224,224)">Resources</a><span style="font-size:13.3333330154419px"> </span><br style="font-size:13.3333330154419px" /><a href="http://www.rigiresearch.com/courses/sas/lectures" style="font-size:13.3333330154419px" target="_blank">Lectures </a><br style="font-size:13.3333330154419px" /><a href="http://www.rigiresearch.com/courses/sas/assignment-1" style="font-size:13.3333330154419px">Assignment 1</a><span style="font-size:13.3333330154419px"> </span><br style="font-size:13.3333330154419px" /><a href="http://www.rigiresearch.com/courses/sas/assignment-2" style="font-size:13.3333330154419px">Assignment 2 <br /></a><a href="http://www.rigiresearch.com/courses/sas/assignment-3" style="font-size:13.3333330154419px">Assignment 3 </a><br style="font-size:13.3333330154419px" /><a href="http://www.rigiresearch.com/courses/sas/assignment-4" style="font-size:13.3333330154419px">Assignment 4</a><span style="font-size:13.3333330154419px"> </span><div style="font-size:13.3333330154419px"><a href="http://www.rigiresearch.com/grad-project">Grad Project</a><br /><a href="http://webhome.cs.uvic.ca/~hausi/2015-480a/marks.pdf" rel="nofollow" target="_blank">Marks </a><br /><a href="http://www.rigiresearch.com/courses/sas/contact">Contact</a></div></div></td></tr></tbody></table></div><div><a href="http://www.rigiresearch.com/courses/sas/contact"></a></div></div></td><td class="sites-layout-tile sites-tile-name-content-2"><div dir="ltr"><h3><a name="TOC-Due-Date"></a>Due Date</h3>
+Friday, May 29, 2015 (i.e., Saturday before 1 am)<br />
+<h3><a name="TOC-Objectives"></a>Objectives</h3>
+<ul><li><span style="line-height:1.5;font-size:10pt">Introduction to continuous evolution</span></li>
+<li><span style="line-height:1.5;font-size:10pt">Introduction to feedback systems</span></li>
+<li><span style="line-height:1.5;font-size:10pt">Introduction to system dynamics</span></li>
+<li><span style="line-height:1.5;font-size:10pt">Introduction to ultra-large-scale (ULS) systems</span></li><li><span style="line-height:1.5;font-size:10pt">Introduction to cyber-physical systems</span></li>
+<li><span style="font-size:10pt;line-height:1.5">Introduction to emergent behaviour</span></li>
+<li><span style="font-size:10pt;line-height:1.5">Introduction to sensors and their APIs</span></li></ul>
+<div>
+<h3><a name="TOC-Instructions"></a>Instructions</h3>
+</div>
+<div><span style="line-height:1.5;font-size:10pt">This assignment consists of three parts. In Part I you are to characterize three feedback systems. In Part II you are to deepen your understanding of ULS systems. In Part III is a group assignment on sensor APIs.<br /></span></div><div></div>
+<div>
+<h3><a name="TOC-Part-I"></a>Part I</h3>
+Identify three (3) feedback systems from different application areas that you encounter in your everyday life. For each system, identify the type of feedback (e.g., positive, negative, or bipolar), identify the sensing and actuation mechanisms as well as the algorithm used in the controller. Describe in detail the underlying model and its assumptions. Describe the uncertainty that the feedback system provides. Describe the dynamics that are controlled through the use of feedback. At least two of the three examples should be software-intensive systems. Graduate students are strongly encouraged to pick at least one system from their research area.</div><div><br /></div><div><div style="font-size:13.3333330154419px"><span style="line-height:15px">Recommended reading materials</span></div><div style="font-size:13.3333330154419px"><ul><li><span style="font-size:10pt;line-height:15px">Murray: Control in an Information Rich World: Report of the Panel on Future Directions in Control, Dynamics, and Systems. SIAM 2003. </span><a href="http://www.cds.caltech.edu/~murray/cdspanel/report/cdspanel-15aug02.pdf" rel="nofollow" style="font-size:10pt;line-height:15px">http://www.cds.caltech.edu/~murray/cdspanel/report/cdspanel-15aug02.pdf</a></li><li>Chapters 1 &amp; 2</li></ul></div></div><div><div style="font-size:13.3333330154419px"><div style="font-size:13.3333330154419px">The answer for each feedback system should fit onto approximately one typeset page.<br /></div><div style="font-size:13.3333px"><b><br /></b><span style="color:rgb(255,0,0)"><u><b>Maximum</b> 3 typeset pages</u> for this part</span> <br /></div><div><br /></div></div>
+</div>
+<div><b>Do not copy verbatim from any source. Write your own prose.<br />Cite your sources.</b></div><div>
+<h3><a name="TOC-Part-II"></a>Part II </h3>
+Study the following book on <span style="font-size:13.3333330154419px">Ultra-Large-Scale Systems (ULS)</span><br />
+<ul><li><span style="line-height:1.5;font-size:10pt">Northrop, L., Feiler, P., Gabriel, R., Goodenough, J., Linger, R., Longstaff, T., Kazman, R., Klein, M., Schmidt, D., Sullivan, K., Wallnau, K.: Ultra-Large-Scale Systems. The Software Challenge of the Future. Technical Report, Software Engineering Institute, Carnegie Mellon University, 134 pages ISBN 0-9786956-0-7 (2006)</span></li><li><span style="line-height:1.5;font-size:10pt;background-color:transparent"> </span><a href="http://www.sei.cmu.edu/uls" style="line-height:1.5;font-size:10pt;background-color:transparent">http://www.sei.cmu.edu/uls</a></li></ul>
+</div>
+<div>
+<ol><li><span style="line-height:1.5;font-size:10pt">What are the main characteristics of a ULS system?</span></li>
+<li><span style="line-height:1.5;font-size:10pt">Contrast centralized and decentralized control.</span></li>
+<li><span style="line-height:1.5;font-size:10pt">Describe two selected challenges for the design and evolution of ULS systems in detail.</span></li>
+</ol><span style="color:rgb(255,0,0)"><u><b>M</b></u></span><span style="color:rgb(255,0,0)"><u><b>aximum</b> 2 </u></span><span style="color:rgb(255,0,0)"><u><span style="color:rgb(255,0,0)"><u>typeset</u></span> pages</u> for this part</span></div>
+<div><br />
+</div>
+<div><b>Do not copy verbatim from any source.</b></div><div><b>Cite your sources.</b></div>
+<h3><a name="TOC-Part-III---Group-Project-3-people-max-per-group-"></a>Part III - Group Project (3 people max per group)</h3>
+<div></div><div><ol><li><span style="line-height:1.5;font-size:10pt">Identify and describe sensor APIs for different platforms (e.g., different operating systems). <br />
+Pick an interesting category of sensors or sensor network and describe its API in detail.</span></li>
+<li><span style="line-height:1.5;font-size:10pt">Design, implement and document a simple application using this API.</span></li>
+<li><span style="line-height:1.5;font-size:10pt">Describe how this API and your application can be transitioned to a cloud computing environment.</span></li>
+</ol>
+<div>All group members have to work on all three parts together. Learn from each other!</div>
+<div>Articulate how the individual group members contributed to Part III.</div>
+<div><br /></div><div>Submission details:<br />
+</div>
+<div>
+<div><ul><li><span style="color:rgb(255,0,0)"><u><b>M</b></u></span><span style="color:rgb(255,0,0)"><u><b>aximum</b> 3 </u></span><span style="color:rgb(255,0,0)"><u><span style="color:rgb(255,0,0)"><u>typeset </u></span>pages</u> for this part</span></li><li>Submit a short video of no more than 5 minutes explaining your implementation and showing a demo of your application.<i> </i><b>NOTE: </b>It is recommended that you upload the video in some external repository (e.g., Dropbox or Google Drive) and submit the access link. <br /></li></ul></div>
+<div><b>You only need to submit one document and video per group.</b></div>
+<div>
+</div>
+</div>
+<div><b>Do not copy verbatim from any source.<br />Cite your sources.</b></div>
+<div><br />
+</div>
+<div><b>Groups</b></div><div>The name listed first in each group is the coordinator of the groups (e.g., arrange meetings). Each group member is expected to contribute equally to the group projects.</div><div><a href="https://docs.google.com/a/rigiresearch.com/viewer?a=v&amp;pid=sites&amp;srcid=cmlnaXJlc2VhcmNoLmNvbXxyaWdpLXJlc2VhcmNofGd4OjdkOGU2MWQxYWJlN2I3Y2U" target="_blank">Emails for group project</a></div>
+<div>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<tbody><tr style="height:12.75pt">
+<td style="border-color:rgb(136,136,136) black black rgb(136,136,136);border-style:solid;border-width:1pt;padding:0cm 5.4pt;width:59.6000003814697px;height:27px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G1</font></span></p>
+</td>
+<td style="border-style:solid solid solid none;border-top-color:rgb(136,136,136);border-top-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;width:611.60000038147px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Ernest Aaron, Adel Adil, Luuk Veenis</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G2</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Maryi Arciniegas Mendez, Navdeep Bahia, Richard Wagner</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G3</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Simar Arora, Miles Barr, Evan Wilde</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G4</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><font face="arial, sans-serif"><b><span style="font-size:10pt">Jonathan Bowen</span></b><span style="font-size:10pt">, David
+  Bayly, Elliot Wyman</span></font></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G7</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Erkan Ersan, <b>Zhenyu Zhang</b>,
+  Pufan Zheng</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G8</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Maria Ferman Guerra, Jason Cho, Zhanxue Zhu</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G9</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Khushboo Gandhi, Mohammad Bin Abdulsalam, <b>Ian Leslie</b></font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G10</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Harneet
+  Kaur, Timothy Dalton, <b>Sahibdeep Sran</b></font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G11</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Francis Harrison,  Jorge Conde Gomez Llanos</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G12</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Stephan Heinemann, Sean Debroni, Tory Borsboom-Hanson</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G13</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Harshit Jain, Rodney Gelera, John Cox</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G14</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Sumit Kadyan, Fraser DeLisle</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G15</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Navpreet Kaur, Zhuoli Xiao, Adnan Duale</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G16</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Parminder Kaur, Abhinandan Jagdev, Dustin Faulkner</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G17</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Waseem Khan, Anthony Kohan, Xiaotian Li</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G18</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Nishant Khanna, Patrick Lavoie, Connor McConkey</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G20</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><font face="arial, sans-serif"><span style="font-size:10pt">Carlene LeBeuf, </span><span style="font-size:10pt">Siqi Li, Darren Prince</span></font></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G21</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Ye Liang, Simon Taft</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G22</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><font face="arial, sans-serif"><span style="font-size:10pt">Junnan Lu, Colum McClay, </span><span style="font-size:10pt">Jiashu Xiong</span></font></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G23</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif">Adithya Rathakrishnan, MacKay McGillivray, Jason</font></span> Yu</p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G24</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> Arturo Reyes Lopez, Mohammed Nader Zuhri Yafi</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G25</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> Babak Tootoonchi, Daniel Oon, Muhammad Zubair</font></span></p>
+</td>
+</tr>
+<tr style="height:12.75pt">
+<td style="border-style:none solid solid;border-left-color:rgb(136,136,136);border-left-width:1pt;border-bottom-color:black;border-bottom-width:1pt;border-right-color:black;border-right-width:1pt;padding:0cm 5.4pt;height:28px;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> G26</font></span></p>
+</td>
+<td style="border-style:none solid solid none;border-bottom-color:black;border-bottom-width:1pt;border-right-color:rgb(136,136,136);border-right-width:1pt;padding:0cm 5.4pt;background-image:initial;background-repeat:initial">
+<p style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal"><span style="font-size:10pt"><font face="arial, sans-serif"> Sam Wang, Samuel Navarrete</font></span></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<h3><a name="TOC-How-to-submit"></a>How to submit</h3>
+<div>Send e-mail with solution in pdf format to <a href="mailto:submit@rigiresearch.com">submit@rigiresearch.com</a>. Ensure e-mail subject line is in the following format:</div>
+<div><br />
+</div>
+</div>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">
+<div>
+<div><b>&lt;course_number&gt;-A1 </b></div>
+</div>
+</blockquote>
+<div>
+<div><br />
+</div>
+<div>and filename is in the following format:</div>
+<div><br />
+</div>
+</div>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">
+<div><b>&lt;course_numb&gt;-&lt;first_name&gt;-&lt;last_name&gt;-&lt;student_number&gt;.pdf</b></div>
+</blockquote>
+<div>
+<div><br />
+</div>
+<div>where course_number is either seng480a, csc485a, or csc586a. </div>
+<div><br />
+</div>
+</div>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">
+<div><span style="font-style:normal"><b>e.g.:</b> </span></div>
+</blockquote>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">
+<div><span style="font-style:normal">subject: seng480a-A1</span></div>
+</blockquote>
+</blockquote>
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">
+<div><span style="font-style:normal">filename: seng480a-john-doe-v00666.pdf</span></div>
+<div><span style="font-style:normal"><br />
+</span></div>
+</blockquote>
+</blockquote>
+<span style="font-style:normal">For Part III, the person submitting for the group must include the list of their group members in the following format:</span>
+<div><br />
+<blockquote style="margin:0 0 0 40px;border:none;padding:0px">
+<div><b style="font-style:italic">&lt;course_numb&gt;-&lt;first_name&gt;-&lt;last_name&gt;-&lt;student_number&gt;</b></div>
+<div><b style="font-style:italic"><br />
+</b></div>
+</blockquote>
+This list should be added at the end of Part III i.e.: inside the pdf.<br />
+<div>
+<div>
+<h3><a name="TOC-Marking"></a>Marking</h3>
+<div>Part I is worth 35%; Part II 35%; and Part III 30%.</div>
+</div>
+</div>
+</div></div></td></tr></tbody></table><div class="sites-layout-tile sites-tile-name-footer sites-layout-empty-tile"><div dir="ltr"><br /></div></div></div>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
+<div id="sites-attachments-container">
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-subfooter"><div class="sites-subfooter-content"><div dir="ltr"><div style="text-align:center">Rigi Research Group - Computer Science Department - University of Victoria. Canada</div></div></div></div>
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=http://sites.google.com/a/rigiresearch.com/rigi-research/courses/sas/assignment-1&amp;service=jotspot">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="http://sites.google.com/a/rigiresearch.com/rigi-research/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="http://www.gstatic.com/sites/p/50ec67/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+      
+          sites.core.Analytics.createTracker();
+          sites.core.Analytics.trackPageview();
+        
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "Navigation", true);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('http://www.rigiresearch.com/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'http://csi.gstatic.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
