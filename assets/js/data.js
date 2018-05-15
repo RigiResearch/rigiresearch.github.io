@@ -7,7 +7,7 @@ var sidebar = "<div class='inner'>";
     sidebar += "<h2>Menu</h2>";
     sidebar += "</header>";
     sidebar += "<ul>";
-    sidebar += "<li><a href='index.html'>Home</a></li>";
+    sidebar += "<li><a href='http://rigiresearch.com'>Home</a></li>";
     sidebar += "<li><a href='/research'>Research</a></li>";
     sidebar += "<li><a href='/people'>People</a></li>";
     sidebar += "<li>";
