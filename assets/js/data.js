@@ -26,7 +26,7 @@ function _rA(img, title, desc, more, callback){
     html_article += "<h3>"+title+"</h3>";
     html_article += "<p>"+desc+"</p>";
     html_article += "<ul class='actions'>";
-    html_article += "<li><a href='"+more+"' class='button'>More</a></li>";
+    html_article += "<li><a href='"+more+"' class='button'>Project website</a></li>";
     html_article += "</ul>";
     html_article += "</article>";
 
