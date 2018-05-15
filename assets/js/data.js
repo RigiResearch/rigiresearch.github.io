@@ -1,3 +1,4 @@
+$(document).ready(function() {
 
 var sidebar = "<div class='inner'>";
     sidebar += "<!-- Menu -->";
