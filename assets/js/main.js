@@ -1,8 +1,39 @@
+$(document).ready(function() {
+
+
+var sidebar = "<div class='inner'>";
+    sidebar += "<!-- Menu -->";
+    sidebar += "<nav id='menu'>";
+    sidebar += "<header class='major'>";
+    sidebar += "<h2>Menu</h2>";
+    sidebar += "</header>";
+    sidebar += "<ul>";
+    sidebar += "<li><a href='http://rigiresearch.com'>Home</a></li>";
+    sidebar += "<li><a href='/research'>Research</a></li>";
+    sidebar += "<li><a href='/people'>People</a></li>";
+    sidebar += "<li>";
+    sidebar += "</ul>";
+    sidebar += "</nav>";
+    sidebar += "<!-- Section -->";
+    sidebar += "<section>";
+    sidebar += "<header class='major'>";
+    sidebar += "<h2>Contact Us</h2>";
+    sidebar += "<ul class='contact'>";
+    sidebar += "<li class='fa-envelope-o'><a href='#'>info@rigiresearch.com</a></li>";
+    sidebar += "<li class='fa-phone'>(250) 472 5865</li>";
+    sidebar += "<li class='fa-home'>Engineering Computer Science Building. <br> Rigi Lab - ECS 412 <br> Victoria, BC. Canada</li>";
+    sidebar += "</ul>";
+    sidebar += "</section>";
+    sidebar += "</div>";
+
+    $('#sidebar').html(sidebar);
+});
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+
 
 (function($) {
 
@@ -86,7 +117,7 @@
 			var $sidebar = $('#sidebar'),
 				$sidebar_inner = $sidebar.children('.inner');
 
-			
+
 			// Inactive by default on <= large.
 				skel
 					.on('+large', function() {
