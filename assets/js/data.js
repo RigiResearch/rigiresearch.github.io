@@ -115,40 +115,40 @@ var people = [
         name: "Hausi A. Müller",
         desc : "Professor, Associate Dean Research PhD PEng FCAE <br>Faculty of Engineering <br>Department of Computer Science <br>University of Victoria"
       },{
-        website: "people/lorena-castaneda.html",
+        website: "lorena-castaneda.html",
         img : "http://rigiresearch.com/images/lc.jpg",
         name : "Lorena Castañeda PhD",
         desc : " <strong>Postdoctoral Fellow</strong><ul><li>Cyber-Physical-Human Systems</li><li>Models at Runtime</li><li>Self-AdaptiveSystems</li> </ul>     "
       },{
-        website : "people/miguel-jimenez.html",
+        website : "miguel-jimenez.html",
         img: "http://rigiresearch.com/images/mj.png",
         name: "Miguel Jimenez",
         desc : "<strong>PhD Student</strong></p>         <ul>         <li>DevOps</li>        <li>Models at Runtime</li>        </ul>"
 
       },{
-        website : "people/nina-taherimakhsousi.html",
+        website : "nina-taherimakhsousi.html",
         img : "http://rigiresearch.com/images/nt.jpg",
         name : "Nina Taherimakhsousi",
         desc : " <strong>PhD Candidate</strong></p> <ul> <li>Context-Based Face Recognition</li> <li>Self-Adaptive Systems</li> </ul> "
 
       },{
-        website : "people/stephan-heinemann.html",
+        website : "stephan-heinemann.html",
         img : "http://rigiresearch.com/images/sh.jpg",
         name : "Stephan Heinemann",
         desc : " <strong>PhD Candidate</strong></p> <ul> <li>Self-Adaptive Systems</li> </ul>         </div> "
       },{
-        website : "people/priya-angara.html",
+        website : "priya-angara.html",
         img : "http://rigiresearch.com/images/pa.jpg",
         name : "Prashanti Priya Angara",
         desc : " <strong>MSc Student</strong></p> <ul> <li>Cognitive Computing</li> <li>Cyber-Physical Systems</li> </ul> "
 
       },{
-        website : "people/harshit-jain.html",
+        website : "harshit-jain.html",
         img : "http://rigiresearch.com/images/hj.jpg",
         name : "Harshit Jain",
         desc : " <strong>MSc Student</strong></p> <ul> <li>Smart Health Maven</li> </ul>         </div> "
 },{
-        website : "people/roshni-jain.html",
+        website : "roshni-jain.html",
         img : "http://rigiresearch.com/images/rj.jpg",
         name : "Roshni Jain",
         desc : " <strong>MSc Student</strong></p> <ul> <li>Smart Health Maven</li> </ul>         </div> "
