@@ -1,6 +1,7 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 
+
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
@@ -11,7 +12,9 @@
 .img-face {
 		height: 180px;
     width: 180px;
-		
+		padding-right: 20px;
+		padding-bottom: 20px;
+
 }
 
 .table-people tbody tr {
@@ -22,12 +25,12 @@
 
 .table-people td {
 	background-color: white;
-
 }
 
 .table-people tr td img {
     float: none;
 }
+
 
 /* Reset */
 
