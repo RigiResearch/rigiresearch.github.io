@@ -159,7 +159,7 @@ var people = [
 
     },{
             website : "alexandra-deane.html",
-            img : IMG_PATH + "ad.jpg",
+            img : IMG_PATH + "alexandrad.jpg",
             name : "Alexandra Deane",
             desc : " <strong>Undergraduate Student</strong><p>NSERC Undergraduate Research Award recipient</p> <ul> <li>Machine Learning</li> </ul>         </div> "
 
