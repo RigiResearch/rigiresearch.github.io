@@ -153,5 +153,12 @@ var people = [
         name : "Roshni Jain",
         desc : " <strong>MSc Student</strong></p> <ul> <li>Smart Health Maven</li> </ul>         </div> "
 
-    }
+    },{
+            website : "alexandra-deane.html",
+            img : "http://rigiresearch.com/images/ad.jpg",
+            name : "Alexandra Deane",
+            desc : " <strong>Undergraduate Student</strong><p>NSERC Undergraduate Research Award recipient</p> <ul> <li>Machine Learning</li> </ul>         </div> "
+
+        }
+
 ]
