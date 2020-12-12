@@ -75,6 +75,10 @@ var articles = [
     title: "Foodie Cognitive Bot",
     desc : "Foodie is a smart conversational agent that helps users in the kitchen by interacting with them about their dietary preferences, needs, constraints and goals. Foodie accomplishes this by making use of IBM Watson’s Conversation Platform API10 to recognise users’ intent, and understand events related to the users and their context.  To support the knowledge base for conversations, Foodie uses various services including Spoonacular, FoodEssentials, and Watson services through their REST APIs. Users ideally interact with Foodie via a hybrid interface (i.e., voice and text) and can be integrated with services, such as Slack, Facebook Messenger, Google Assistant or Siri.",
     more: "#"
+  },{  img :  IMG_PATH + "dts.jpg",
+  title : "Self-Adaptation and Runtime Model Evolution Toward Next-Generation Digital Twins",
+  desc :  "Digital twins (DTs) will enable the long-anticipated convergence between physical and virtual worlds. This convergence will augment traditional physically-bound operations and services with new virtually-bound capabilities, disrupting multiple application domains in the process. Nevertheless, achieving this point will demand DTs with increased autonomy and enhanced ability to monitor, reason about, and react upon relevant phenomena occurring in the physical world. Ultimately, these capabilities will enable DTs to cooperate and capitalize on their interactions, allowing organizations to generate value from their implementation. We investigate pivotal research advances toward the realization of autonomic and cooperative DTs.",
+  more :  RESEARCH_PATH + "digital-twins/"
   },{
     img: IMG_PATH + "computer.jpg",
     title: "DevOps",
